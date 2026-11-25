@@ -198,7 +198,7 @@ A primeira entrega é uma aplicação web única. Os sete módulos abaixo corres
 | AUD-28 | Usar as telas de envio, processamento e resultado | decisão do usuário | Pending |
 | AUD-29 | Usar as telas de envio, processamento e resultado | decisão do usuário | Pending |
 | AUD-30 | Usar as telas de envio, processamento e resultado | decisão do usuário | Pending |
-| AUD-31 | Inspecionar as etapas da arquitetura | decisão do usuário | Pending |
+| AUD-31 | Inspecionar as etapas da arquitetura | decisão do usuário | Implementing |
 | AUD-32 | Inspecionar as etapas da arquitetura | decisão do usuário | Pending |
 | AUD-33 | Inspecionar as etapas da arquitetura | decisão do usuário | Pending |
 

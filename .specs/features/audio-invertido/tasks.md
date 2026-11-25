@@ -5,7 +5,7 @@
 Implementar com a skill tlc-spec-driven. Cada tarefa exige teste, gate e commit atômico. A verificação final percorre todos os critérios.
 
 **Design**: `.specs/features/audio-invertido/design.md`
-**Status**: Approved
+**Status**: In Progress
 **Approved**: 2026-11-25 - user: "pode avançar"
 **Build**: none - projeto ESM novo, sem compilação ou linter configurado antes de T1
 **Run unit**: `npm run test:unit`
@@ -79,15 +79,15 @@ T17 → T18
 ### T1: Criar manifesto e comandos do projeto
 
 **What**: Define Node 24, scripts de teste e dependência de desenvolvimento Playwright.
-**Where**: `package.json`
+**Where**: `package*.json`
 **Depends on**: None
 **Reuses**: Node.js 24 nativo
 **Requirement**: AUD-31
 
 **Done when**:
 
-- [ ] Define Node 24, scripts de teste e dependência de desenvolvimento Playwright.
-- [ ] O manifesto declara Node 24 e os comandos `test`, `test:unit`, `test:integration` e `test:e2e`; `npm test` executa sem erro.
+- [x] Define Node 24, scripts de teste e dependência de desenvolvimento Playwright.
+- [x] O manifesto e o lockfile fixam Node 24 e Playwright; os comandos `test`, `test:unit`, `test:integration` e `test:e2e` estão declarados e `npm test` executa sem erro.
 
 **Tests**: none
 **Gate**: full
