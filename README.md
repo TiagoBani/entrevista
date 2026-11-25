@@ -14,3 +14,8 @@ npx @tech-leads-club/agent-skills install --skill tlc-spec-driven
 ```bash
 npx @tech-leads-club/agent-skills install --skill skill-architects
 ```
+
+- [the-judge]
+```bash
+npx @tech-leads-club/agent-skills install --skill the-judge
+```
