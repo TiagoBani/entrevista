@@ -6,11 +6,12 @@
       "source": "local",
       "contentHash": "e8c2380a57817ef2406da1977668a39ba7721bdcb5c430fb87f2f82d6b34ae18",
       "installedAt": "2026-11-25T12:17:53.687Z",
-      "updatedAt": "2026-11-25T12:17:53.711Z",
+      "updatedAt": "2026-11-25T12:20:04.504Z",
       "agents": [
         "cursor",
         "claude-code",
-        "windsurf"
+        "windsurf",
+        "codex"
       ],
       "method": "copy",
       "global": false
@@ -26,6 +27,20 @@
         "claude-code",
         "windsurf",
         "codex"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "the-judge": {
+      "name": "the-judge",
+      "source": "local",
+      "contentHash": "05526209052f6592ad98476e8f59e9ffa2a24e803e10a90ceac659476b509403",
+      "installedAt": "2026-11-25T13:53:24.486Z",
+      "updatedAt": "2026-11-25T13:53:24.496Z",
+      "agents": [
+        "cursor",
+        "claude-code",
+        "windsurf"
       ],
       "method": "copy",
       "global": false

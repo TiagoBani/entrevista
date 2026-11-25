@@ -30,6 +30,21 @@
       ],
       "method": "copy",
       "global": false
+    },
+    "the-judge": {
+      "name": "the-judge",
+      "source": "local",
+      "contentHash": "05526209052f6592ad98476e8f59e9ffa2a24e803e10a90ceac659476b509403",
+      "installedAt": "2026-11-25T13:53:24.486Z",
+      "updatedAt": "2026-11-25T13:53:37.363Z",
+      "agents": [
+        "cursor",
+        "claude-code",
+        "windsurf",
+        "codex"
+      ],
+      "method": "copy",
+      "global": false
     }
   }
 }
