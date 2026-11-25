@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "skills": {
+    "tlc-spec-driven": {
+      "name": "tlc-spec-driven",
+      "source": "local",
+      "contentHash": "e8c2380a57817ef2406da1977668a39ba7721bdcb5c430fb87f2f82d6b34ae18",
+      "installedAt": "2026-11-25T12:17:53.687Z",
+      "updatedAt": "2026-11-25T12:17:53.711Z",
+      "agents": [
+        "cursor",
+        "claude-code",
+        "windsurf"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "skill-architect": {
+      "name": "skill-architect",
+      "source": "local",
+      "contentHash": "349b256153447631c3ed356996c3a62fec52493d07ba75e37b12c458f9fbf6bb",
+      "installedAt": "2026-11-25T12:19:17.348Z",
+      "updatedAt": "2026-11-25T12:19:50.960Z",
+      "agents": [
+        "cursor",
+        "claude-code",
+        "windsurf",
+        "codex"
+      ],
+      "method": "copy",
+      "global": false
+    }
+  }
+}
