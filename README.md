@@ -1,6 +1,6 @@
 # entrevista
 
-instaladas skills (se estiver utilizando codex adicionar `--agent codex` ao final do comando das tech-leads-club)
+Repositorio com as skills já previamente instaladas
 
 - [grill-me] 
 ```bash
@@ -19,3 +19,8 @@ npx @tech-leads-club/agent-skills install --skill skill-architects
 ```bash
 npx @tech-leads-club/agent-skills install --skill the-judge
 ```
+
+# Repositorio de skills uteis do Tech Leads Club
+
+Caso esteja utilizando codex adicionar `--agent codex` ao final do comando das tech-leads-club
+[Link para o agent skills](https://agent-skills.techleads.club/skills/?search=the-judge)
