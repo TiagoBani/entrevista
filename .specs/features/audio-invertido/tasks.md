@@ -104,8 +104,8 @@ T17 → T18
 
 **Done when**:
 
-- [ ] Cria esquema, paginação, transições atômicas e recuperação de estados.
-- [ ] 5 testes da camada passam no gate `npm test`.
+- [x] Cria esquema, paginação, transições atômicas e recuperação de estados.
+- [x] 5 testes da camada passam no gate `npm test`.
 
 **Tests**: integration
 **Gate**: full

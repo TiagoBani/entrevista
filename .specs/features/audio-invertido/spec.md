@@ -174,11 +174,11 @@ A primeira entrega é uma aplicação web única. Os sete módulos abaixo corres
 | AUD-04 | Enviar e inverter MP3 | F4 | Pending |
 | AUD-05 | Enviar e inverter MP3 | F5, F6; decisão do usuário | Pending |
 | AUD-06 | Enviar e inverter MP3 | N1 | Pending |
-| AUD-07 | Consultar trabalhos públicos | decisão do usuário | Pending |
+| AUD-07 | Consultar trabalhos públicos | decisão do usuário | Implementing |
 | AUD-08 | Consultar trabalhos públicos | decisão do usuário | Pending |
-| AUD-09 | Consultar trabalhos públicos | decisão do usuário | Pending |
+| AUD-09 | Consultar trabalhos públicos | decisão do usuário | Implementing |
 | AUD-10 | Consultar trabalhos públicos | decisão do usuário | Pending |
-| AUD-11 | Consultar trabalhos públicos | decisão do usuário | Pending |
+| AUD-11 | Consultar trabalhos públicos | decisão do usuário | Implementing |
 | AUD-12 | Consultar trabalhos públicos | decisão do usuário | Pending |
 | AUD-13 | Processar arquivos grandes e falhas | N3 | Pending |
 | AUD-14 | Processar arquivos grandes e falhas | N2, N6; decisão do usuário | Pending |
